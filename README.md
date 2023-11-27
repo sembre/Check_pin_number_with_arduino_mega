@@ -1,4 +1,6 @@
 # Check_pin_number_with_arduino_mega
+![foto 1](https://github.com/sembre/Check_pin_number_with_arduino_mega/assets/4026499/16a19fe5-6835-4c86-a4de-edb14037d81a)
+
 Program menggunakan modul TM1637 dan Arduino untuk memeriksa pin tertentu yang terhubung ke ground. Jika pin terhubung, angka sesuai indeks ditampilkan di display 7-segment.
 Modul TM1637 ini biasanya digunakan untuk tampilan angka atau teks sederhana pada perangkat elektronik.
 
